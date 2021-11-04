@@ -1,0 +1,1263 @@
+commit d7ee9e6b064212b92e2baff5dad0023a03877189
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Thu Jun 3 12:09:33 2021 +0200
+
+    Conclusion in main
+
+commit 8d9dbfc89f10455593aac245a6e9dfcc3d9e6f5c
+Author: Magnus Sverdrup <magnus_s@live.dk>
+Date:   Thu Jun 3 11:28:01 2021 +0200
+
+    magnus amends main notebook
+
+commit 5af658b80a00f56b409b9f12ac77cce1dd186976
+Merge: 17f4f2d 0a76de9
+Author: Magnus Sverdrup <magnus_s@live.dk>
+Date:   Thu Jun 3 11:21:47 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/magsv/fyp2021p04g08
+
+commit 17f4f2df1704ebde713ed9afa83efeaff4ccae40
+Author: Magnus Sverdrup <magnus_s@live.dk>
+Date:   Thu Jun 3 11:21:13 2021 +0200
+
+    magnus amendment to main
+
+commit 0a76de944061596d1763d447458f444418e48549
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Thu Jun 3 11:19:46 2021 +0200
+
+    minor edits
+
+commit 533b57e2a8f68ed44daf007c4d29bff243dd70c7
+Author: rubj <rubj@itu.dk>
+Date:   Thu Jun 3 10:14:56 2021 +0200
+
+    some more stuff
+
+commit e18adb41ea115b0634a7e30019659316fa9574bf
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Wed Jun 2 23:06:16 2021 +0200
+
+    IdaPlayground
+
+commit 3b8a1157aa4cce41a9020b58804d49bf98f0ba98
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Wed Jun 2 23:05:54 2021 +0200
+
+    read through
+    
+    commented out things to possibly delete (see if it still runs by doing so)
+
+commit e0c45edf7d11a54dde1ba89924239a563baa5641
+Author: rubj <rubj@itu.dk>
+Date:   Wed Jun 2 20:19:51 2021 +0200
+
+    mroe stuff
+
+commit beea05955f75c2e0c3998f75cdf53f5ae08de93b
+Author: rubj <rubj@itu.dk>
+Date:   Wed Jun 2 20:02:54 2021 +0200
+
+    typos main
+
+commit db9667ad367ee75ea3cfd4d99dd74a4c199cc5fb
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Wed Jun 2 17:44:08 2021 +0200
+
+    Fixed some grammar here and there
+
+commit bd0ddddb05f089b864161aa0140dfe72c5ce20db
+Author: rubj <rubj@itu.dk>
+Date:   Wed Jun 2 17:04:20 2021 +0200
+
+    Main
+
+commit d0c25215c9a100abd0f61ca40f0b4cc82c49ac18
+Author: sf-pear <sabf@itu.dk>
+Date:   Wed Jun 2 16:19:59 2021 +0200
+
+    New figures.
+
+commit 6073d580d89497d03c8f91c2f99e67ff7fee98e0
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Wed Jun 2 15:17:13 2021 +0200
+
+    Optimized word embedding, not it actually makes sense
+
+commit bf8b4592e6b58ca322950695e7e2261f07f7efc6
+Author: rubj <rubj@itu.dk>
+Date:   Wed Jun 2 14:56:31 2021 +0200
+
+    main stuff again
+
+commit bdda8155e6601cadf32d71f70d66a4d254e4be7d
+Author: sf-pear <sabf@itu.dk>
+Date:   Wed Jun 2 13:39:21 2021 +0200
+
+    Create Main_copy.ipynb
+
+commit ed8a7bd98c77a92d63d83e2076f43db34535d754
+Author: sf-pear <sabf@itu.dk>
+Date:   Wed Jun 2 13:39:19 2021 +0200
+
+    Delete Main.ipynb
+
+commit 7a2446d4f715bc14fdf9d60042cfd0fc1fdc936c
+Author: sf-pear <sabf@itu.dk>
+Date:   Wed Jun 2 13:38:06 2021 +0200
+
+    Create Main.ipynb
+
+commit 1af737041fc174bb53a738eddcff1b8f1f8e728d
+Author: sf-pear <sabf@itu.dk>
+Date:   Wed Jun 2 13:37:24 2021 +0200
+
+    Delete Main.ipynb
+
+commit 90f6e78dd3a3c879ae9b260e838eddb3026168f2
+Author: sf-pear <sabf@itu.dk>
+Date:   Wed Jun 2 13:36:54 2021 +0200
+
+    Delete Main_copy.ipynb
+
+commit 6e2e19ca9734fefd0dc4f68f1087e115bc25f37e
+Author: sf-pear <sabf@itu.dk>
+Date:   Wed Jun 2 13:36:51 2021 +0200
+
+    Update Main.ipynb
+
+commit dfdd691f094bcc81536f3237d012177327a072be
+Merge: 75c600f e9150aa
+Author: sf-pear <sabf@itu.dk>
+Date:   Wed Jun 2 13:15:40 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/magsv/fyp2021p04g08
+
+commit 75c600f0016c17e15067dde70820c6113961d2d8
+Author: sf-pear <sabf@itu.dk>
+Date:   Wed Jun 2 13:15:36 2021 +0200
+
+    Zipfs law images.
+
+commit e9150aab1710d335a458de9eca981da4a64cca57
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Wed Jun 2 13:14:25 2021 +0200
+
+    main cleared
+
+commit ab559c9824d2521dd59644e1c9b2f9191895493e
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Wed Jun 2 13:13:37 2021 +0200
+
+    combined_stance (part 4)
+
+commit 180b0b27c6d9f11443daf917f2bee87b0d5c5472
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Wed Jun 2 13:01:34 2021 +0200
+
+    combined_stance (part 3)
+
+commit 31bf419e42016ffea069e4a5c3db11ddc3692bba
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Wed Jun 2 12:55:27 2021 +0200
+
+    copy of main
+
+commit 37ced2a88fd42d30bed5e1150b0e6ebd8243ab6e
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Wed Jun 2 12:52:49 2021 +0200
+
+    reversing
+
+commit fa35fafc0739ae92fc36b6c2effbf0b17d05bb93
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Wed Jun 2 12:45:25 2021 +0200
+
+    combined_stance (part 2)
+
+commit 1ee00ae02fa933660261d98553366360e2b0c783
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Wed Jun 2 12:39:24 2021 +0200
+
+    combined_stance datasets
+    
+    working progress (step 1)
+
+commit 67b38bc6458270b196a0350a3c46f166545b686c
+Author: Ida Maria Zachariassen <idza@itu.dk>
+Date:   Wed Jun 2 12:25:30 2021 +0200
+
+    Create placeholder.txt
+
+commit 6c48c487f8aa5af47431141578dd2b8dc1b2ed88
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Wed Jun 2 12:15:59 2021 +0200
+
+    fixing MAA (part 1)
+    
+    hopefully
+
+commit b5d34dd8e1b8504669cefcdccc0d13e06b15e564
+Author: Ida Maria Zachariassen <idza@itu.dk>
+Date:   Wed Jun 2 12:06:34 2021 +0200
+
+    Create placeholder.txt
+
+commit 0c452ffac0a368803d340fa097cd1b9886d42cd0
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Wed Jun 2 10:37:34 2021 +0200
+
+    pair-wise kappa done
+
+commit b2fcc7a70a5e96f8e49ab201de782335d4e5e269
+Author: rubj <rubj@itu.dk>
+Date:   Tue Jun 1 23:12:19 2021 +0200
+
+    ml final
+
+commit 14ee84b2530c9f7f335af28eb42225f3873e0f07
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Jun 1 19:12:56 2021 +0200
+
+    Update .gitignore
+
+commit 394f89920a374f712f95710523b09a36d055143d
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Jun 1 18:33:17 2021 +0200
+
+    Update todo.md
+
+commit 274c6b1d7077f168e300a5663e1fb6a484e91e67
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Jun 1 18:25:58 2021 +0200
+
+    Update Main.ipynb
+    
+    Added more to the comparison of datasets.
+
+commit 6709b7020e3187fb6af3712098caad3af973cb43
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Tue Jun 1 17:01:42 2021 +0200
+
+    Half done with the comparison in task 2
+
+commit cdfe22bf02bc4f1706ed16e861acaa256115cb21
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Tue Jun 1 16:58:19 2021 +0200
+
+    task 3 addings
+
+commit 8fe7896b2fb4129680789dd0702c03da53671852
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Jun 1 16:43:40 2021 +0200
+
+    Update Main.ipynb
+
+commit bf4787032666775b9b9e7d22cc0ae42c709ed4b3
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Jun 1 16:39:09 2021 +0200
+
+    Update todo.md
+
+commit 129d502a7bbe0034f03d23ca556bfc992cd97d52
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Jun 1 16:39:07 2021 +0200
+
+    Update Main.ipynb
+    
+    Zipfs law for atheism dataset.
+
+commit fd4e8de1b73a894400221ad01acfca6aa1c7c281
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Tue Jun 1 16:18:33 2021 +0200
+
+    Tidy a bit
+
+commit 8f7a435ab5eeecb29bb83a7ca7c572d2d631e136
+Merge: 3f4ae78 4a99594
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Jun 1 16:17:12 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/magsv/fyp2021p04g08
+
+commit 3f4ae78c284a5768f0887304c0591e230554dae9
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Jun 1 16:17:04 2021 +0200
+
+    Create todo.md
+
+commit 4a995946d8ac4df0cbddbfef7a3d5b10b6f891e9
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Tue Jun 1 15:56:04 2021 +0200
+
+    Fixed task 1 and the tokenizer decision
+
+commit b351b450cfc1ebda6b02d5bc5167c6b88de47313
+Merge: 4cbb049 104ec64
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Jun 1 15:30:12 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/magsv/fyp2021p04g08
+
+commit 104ec64e6bfec6d5c367c0ed68eeb7802d9d922e
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Tue Jun 1 14:51:57 2021 +0200
+
+    Maximum likelihood
+
+commit 37e22b78698bb92157eb91351809f626b9685586
+Author: Ida Maria Zachariassen <idza@itu.dk>
+Date:   Tue Jun 1 13:59:56 2021 +0200
+
+    Add files via upload
+
+commit 36e39aa0c96e9fa477b05133d2b7b25a807fe24f
+Author: Ida Maria Zachariassen <idza@itu.dk>
+Date:   Tue Jun 1 13:59:11 2021 +0200
+
+    Create placeholder.txt
+
+commit 4cbb049b8c60e6e56be3a3eaedffaca00adc098d
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Jun 1 13:42:15 2021 +0200
+
+    Update .gitignore
+
+commit eaa702b3c5f640df5109aeb87431c34e7a78b8eb
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Tue Jun 1 12:41:54 2021 +0200
+
+    tidying up
+
+commit f46b11e89416f395f6a32b4f90cb2deb0ca722ad
+Author: rubj <rubj@itu.dk>
+Date:   Tue Jun 1 11:17:53 2021 +0200
+
+    ml part
+
+commit 474aef28e952aa919f2d6f99a17fceec72693677
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Mon May 31 18:03:53 2021 +0200
+
+    Quantitative difference between our tokenizer and the baseline
+
+commit dc2c01449437adf0f9de315b68cfa701e3fa9b77
+Author: sf-pear <sabf@itu.dk>
+Date:   Mon May 31 17:30:15 2021 +0200
+
+    Update sabrina.ipynb
+
+commit f94e762277f352a27a8416f51a2f259252b2a877
+Author: sf-pear <sabf@itu.dk>
+Date:   Mon May 31 17:29:59 2021 +0200
+
+    Update Main.ipynb
+    
+    Added a couple of tokenizers, added plotted zipf and updated kneser-ney.
+
+commit e5139cba0c1c7348c61a79c7d1680013f2344ee8
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Mon May 31 16:38:58 2021 +0200
+
+    here and there (output cleared)
+
+commit a6c7b2ba1c6a4e1164dbb7eba0161e9157c4f242
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Mon May 31 16:37:41 2021 +0200
+
+    here and there
+
+commit 0922b0b18b9404838a6b68b510aba3269d513ff3
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Mon May 31 15:17:07 2021 +0200
+
+    Tiddy up
+
+commit 1f9e9942b601a6f85edd1e4515e3d827afd215b0
+Author: Ida Maria Zachariassen <idza@itu.dk>
+Date:   Mon May 31 14:44:19 2021 +0200
+
+    Delete val_stance.txt
+    
+    use ruben's instead
+
+commit 59d30ce8bbbcabbfef117c87bd4b16ab1e04eaad
+Author: Ida Maria Zachariassen <idza@itu.dk>
+Date:   Mon May 31 14:44:13 2021 +0200
+
+    Delete train_stance.txt
+    
+    use ruben's instead
+
+commit 16e911265e0493a60eaac5317a7d08f651bbe93f
+Author: Ida Maria Zachariassen <idza@itu.dk>
+Date:   Mon May 31 14:44:07 2021 +0200
+
+    Delete test_stance.txt
+    
+    use ruben's instead
+
+commit 808c8380230c916ca387239d92ef82f69f58c270
+Author: Ida Maria Zachariassen <idza@itu.dk>
+Date:   Mon May 31 14:44:00 2021 +0200
+
+    Delete stance_all_mapping.txt
+    
+    use ruben's instead
+
+commit 2ff4c19dbc4beb0bbc466ab36e17bf5e004709f3
+Merge: c20070a ae3fea6
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Mon May 31 14:19:59 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/magsv/fyp2021p04g08
+
+commit c20070aec5c011c5ebdbcbfdd193ce01c33da58c
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Mon May 31 14:19:57 2021 +0200
+
+    Task 3: IAA text
+
+commit ae3fea610e389aac739a8b415b3cbb0e513bfc6b
+Author: rubj <rubj@itu.dk>
+Date:   Mon May 31 13:53:22 2021 +0200
+
+    ruben stuff main
+
+commit ce066abed6d030dcd87a522a77d5aa20df83f110
+Author: Magnus Sverdrup <magnus_s@live.dk>
+Date:   Mon May 31 11:26:21 2021 +0200
+
+    Magnus work in main file
+
+commit 18379b414e3eb5b5ca685c5c6412f5c423b16275
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Mon May 31 10:01:57 2021 +0200
+
+    Task 3 descriptive text
+
+commit df5e51388b0fd37bccc00f3dd2b7674134aedaca
+Merge: 10b077b 930b58e
+Author: Magnus Sverdrup <magnus_s@live.dk>
+Date:   Mon May 31 09:05:17 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/magsv/fyp2021p04g08
+
+commit 10b077beecaac6cca1abfb0429db2e403e0dbb15
+Author: Magnus Sverdrup <magnus_s@live.dk>
+Date:   Mon May 31 09:04:57 2021 +0200
+
+    Update on Magnus' notebook
+
+commit 930b58e7721009493d73174882676daba24d85b8
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Sun May 30 23:46:41 2021 +0200
+
+    Descriptive text
+
+commit 009f9a15e273ff5eb0d77331cd603494d8743a3d
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Sun May 30 18:34:19 2021 +0200
+
+    Explanation to n-grams in section 2
+
+commit 172e4f9bd60a305fc846966b5689b3503ad6da64
+Merge: 3c884c7 fc49857
+Author: Magnus Sverdrup <magnus_s@live.dk>
+Date:   Sun May 30 17:41:46 2021 +0200
+
+    magnus commit to repository
+
+commit 3c884c7e08b6b561a979bfe5b2f86ca4317fd2f4
+Author: Magnus Sverdrup <magnus_s@live.dk>
+Date:   Sun May 30 17:38:56 2021 +0200
+
+    Magnus notebook maximum likelihood estimation
+
+commit fc49857e1afb405ce9c2f9545399aa1b29b98add
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Sun May 30 16:44:41 2021 +0200
+
+    Word embedding for main
+
+commit 2f6f2e8e54d6cfbcd7c48ce46fda09f181a173c0
+Author: Magnus Sverdrup <magnus_s@live.dk>
+Date:   Sun May 30 15:04:38 2021 +0200
+
+    Magnus ameendments to stance dataset and main code
+
+commit 2b4083669e3971dd03a1a030740ba8df43595df5
+Author: Magnus Sverdrup <magnus_s@live.dk>
+Date:   Sun May 30 14:24:38 2021 +0200
+
+    magnus adds to main
+
+commit d787217be93f81ddcfcf6f6bbc74c73f72a9005b
+Author: Magnus Sverdrup <magnus_s@live.dk>
+Date:   Sun May 30 13:13:45 2021 +0200
+
+    magnus' tokenizer included
+
+commit 42f729f4e1b65531411f38b678b7a5a196a71317
+Merge: c7f22f5 7457a8c
+Author: Magnus Sverdrup <magnus_s@live.dk>
+Date:   Sun May 30 12:51:57 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/magsv/fyp2021p04g08
+
+commit 7457a8c02cec715e03978ea824b1ce69ac7a9000
+Author: rubj <rubj@itu.dk>
+Date:   Sun May 30 12:50:03 2021 +0200
+
+    task 3 automatic prediction
+
+commit c7f22f54f96a81ac2a18b65503d432cabd6c8c0d
+Merge: 5155fac 19ca6d9
+Author: Magnus Sverdrup <magnus_s@live.dk>
+Date:   Sun May 30 12:48:13 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/magsv/fyp2021p04g08
+
+commit 5155facfb5a408c063834d2ad0848b0cbb984bd4
+Author: Magnus Sverdrup <magnus_s@live.dk>
+Date:   Sun May 30 12:47:31 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/magsv/fyp2021p04g08
+
+commit 19ca6d9d284e6a85665a553a16411f0f81522526
+Merge: ad4c488 d84b587
+Author: Ruben Oliver Jonsman <rubj@itu.dk>
+Date:   Sun May 30 11:42:24 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/magsv/fyp2021p04g08
+
+commit ad4c488c953e6d0d9def79e2d0f5524bc087f061
+Author: Ruben Oliver Jonsman <rubj@itu.dk>
+Date:   Sun May 30 11:42:19 2021 +0200
+
+    ml task 3
+
+commit d84b587e754121dbb0d016bc3e404d8685fb3f9f
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Sun May 30 11:32:48 2021 +0200
+
+    Summarizing and all stance tweets
+
+commit d8d3439b74bbdc5103ff2668a662e3bc5cae6ab0
+Author: sf-pear <sabf@itu.dk>
+Date:   Sat May 29 22:44:44 2021 +0200
+
+    Update Main.ipynb
+
+commit 498dd46d6f785b2d7b327773803ce23f079061c2
+Author: sf-pear <sabf@itu.dk>
+Date:   Sat May 29 22:32:43 2021 +0200
+
+    Update Main.ipynb
+
+commit 03d6ad4893ab29450a055136ec2e128694dfbdec
+Author: sf-pear <sabf@itu.dk>
+Date:   Sat May 29 22:32:07 2021 +0200
+
+    Update functions.py
+
+commit 3570f0cc28bdd04b1ac9a459cfa6117681689e07
+Author: sf-pear <sabf@itu.dk>
+Date:   Sat May 29 22:32:00 2021 +0200
+
+    Added Kneser Ney.
+    
+    Still needs to be updated, but it works.
+
+commit adc8a893793e92ee841682510ea4dcaa0690a921
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Sat May 29 17:45:07 2021 +0200
+
+    Looked a bit
+
+commit 2e2f91a92cac6c884650793261ff96e4948e725f
+Merge: d7cb30b 1dc5941
+Author: Magnus Sverdrup <magnus_s@live.dk>
+Date:   Fri May 14 20:25:21 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/magsv/fyp2021p04g08
+
+commit d7cb30bc11eb4ba1d25542089057f8224e6a8285
+Author: Magnus Sverdrup <magnus_s@live.dk>
+Date:   Fri May 14 20:24:50 2021 +0200
+
+    magnus notebook
+
+commit 1dc59414f02f2547ad1478b79e91105f1d338962
+Merge: edbb0b3 88c9c97
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri May 14 16:54:55 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/magsv/fyp2021p04g08
+
+commit edbb0b303eec2ce968a17c2b99b1599814752b56
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri May 14 16:54:54 2021 +0200
+
+    Update sabrina.ipynb
+
+commit ed77784d9aa119cf249da2c7d90029117867ab11
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri May 14 16:54:52 2021 +0200
+
+    Update functions.py
+
+commit 88c9c974a0540160f45c4843042409b4746ab400
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Fri May 14 16:48:48 2021 +0200
+
+    Task 2 in main
+
+commit b67c18d0b660cd67480d95dadd1cb0a2fc03aef0
+Merge: 5793086 08b21b3
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Fri May 14 16:44:25 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/magsv/fyp2021p04g08
+
+commit 57930866a3ad2414cbb13f099858f67a47f50c0e
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Fri May 14 16:44:14 2021 +0200
+
+    Create group_annotations.csv
+
+commit 08b21b31d887d5e01275360bb56ad7da336e843e
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Fri May 14 16:42:33 2021 +0200
+
+    Tried out all the classifiers Christian went through in lecture 5
+
+commit b7baf544392595faa5d3ea35321df8ee50cf0972
+Merge: 90b25da fc06fbf
+Author: Magnus Sverdrup <magnus_s@live.dk>
+Date:   Fri May 14 16:22:02 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/magsv/fyp2021p04g08
+
+commit 90b25da7cf81f8ca18dd44a3245b9851435e2771
+Author: Magnus Sverdrup <magnus_s@live.dk>
+Date:   Fri May 14 16:21:49 2021 +0200
+
+    magnus notebook update
+
+commit fc06fbfebf2e04236b56cc00e360d79d6fd69cfc
+Merge: d3df27a 7d6f85f
+Author: rubj <rubj@itu.dk>
+Date:   Fri May 14 16:11:51 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/magsv/fyp2021p04g08
+
+commit d3df27a0a940e5216787eaa66f10a55754b6f535
+Author: rubj <rubj@itu.dk>
+Date:   Fri May 14 16:11:49 2021 +0200
+
+    task 4 ruben
+
+commit 10a80673fbd34a97ac010a71be307eae0eef4f16
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri May 14 15:10:42 2021 +0200
+
+    Update sabrina.ipynb
+
+commit 0a4739d16ea396d353142067738a3fb67547c2be
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri May 14 15:10:40 2021 +0200
+
+    Update functions.py
+
+commit 812b94988a06d871e0977e7ade3752d2e9aaff7b
+Merge: e3171eb 7d6f85f
+Author: Magnus Sverdrup <magnus_s@live.dk>
+Date:   Fri May 14 15:02:51 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/magsv/fyp2021p04g08
+
+commit e3171eb32b78139fffd467fba006fc4a87f9e823
+Author: Magnus Sverdrup <magnus_s@live.dk>
+Date:   Fri May 14 15:02:20 2021 +0200
+
+    magnus commit
+
+commit fde10b3f9a8abac4ddfe2d9af616006faf90ffb3
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri May 14 14:47:22 2021 +0200
+
+    Update sabrina.ipynb
+
+commit 33ca75f96cb5756c3d84dc3aa00f2f12e6a9e6e8
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri May 14 14:11:51 2021 +0200
+
+    Update sabrina.ipynb
+
+commit 7d6f85f416bb291f79f656ad1e2444156bba906e
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri May 14 13:54:46 2021 +0200
+
+    Update sabrina.ipynb
+
+commit 09126b8010d6984df038b2e79a17944f34455451
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri May 14 13:54:44 2021 +0200
+
+    Update functions.py
+
+commit 4bf5e0c26bdbfd470849648c9ceeb6ebc0656c48
+Merge: f460045 19ee3f5
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue May 11 22:03:25 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/magsv/fyp2021p04g08
+
+commit f4600453d04a4e75f6a8feaeb933f5d93838d561
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue May 11 22:03:13 2021 +0200
+
+    Update sabrina.ipynb
+
+commit ee51bc2c6039aed3f7764bcdf3202253bde889e9
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue May 11 22:03:08 2021 +0200
+
+    Update functions.py
+
+commit 19ee3f5a26189eb24c2dc1add9bc92171d0b74ee
+Merge: 237f094 2c8e55c
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Tue May 11 17:50:27 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/magsv/fyp2021p04g08
+
+commit 237f0942c17dc2b41fe35e1550584c37f5c8dd4e
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Tue May 11 17:50:24 2021 +0200
+
+    IdaPlayground
+
+commit 2c8e55c15fef93571e0dd7395a9a0527878d04cd
+Merge: 32950bf f7a2e20
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Tue May 11 17:47:21 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/magsv/fyp2021p04g08
+
+commit 32950bf170f63af88fed637d46c174e71f02157d
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Tue May 11 17:47:09 2021 +0200
+
+    Tiddy up
+
+commit f7a2e2018fbadd71c43723d193807ad62a6bca52
+Merge: 2b49b1c 773618a
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue May 11 17:39:52 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/magsv/fyp2021p04g08
+
+commit 2b49b1c31cf4c42cbe23cde2863dcab337079b07
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue May 11 17:23:34 2021 +0200
+
+    Update sabrina.ipynb
+
+commit 773618a956dde7c6afb20a52ec6a7733f0edbf97
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Tue May 11 17:21:53 2021 +0200
+
+    SGDClassifier with pipelining for the irony dataset
+
+commit b97d068f5c5a274fd220bed2d8273b2629e5f73e
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue May 11 17:09:37 2021 +0200
+
+    Update sabrina.ipynb
+
+commit 4c3bb2bae6460ffcbd375ab7a3529f7c4efcae86
+Merge: b3f34ca 3a5205d
+Author: Magnus Sverdrup <magnus_s@live.dk>
+Date:   Tue May 11 16:31:30 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/magsv/fyp2021p04g08
+
+commit b3f34ca096212d1bb566d401923debbedbc803e4
+Author: Magnus Sverdrup <magnus_s@live.dk>
+Date:   Tue May 11 16:31:17 2021 +0200
+
+    Magnus push
+
+commit 3a5205d00fcf1be5a6318c70097ae8fc16140530
+Author: rubj <rubj@itu.dk>
+Date:   Tue May 11 16:22:46 2021 +0200
+
+    asd
+
+commit 22cd595f2695c864c47bc894a1bfb0ad10e28e8c
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue May 11 15:54:15 2021 +0200
+
+    Update sabrina.ipynb
+
+commit 48575edfd68813c2fc328d0c056ba9dca5680334
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Tue May 11 15:06:27 2021 +0200
+
+    Added some work on N-Grams for the irony dataset
+
+commit ed1e048fc5405e739bb7c49be199fa70a8eac207
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Tue May 11 14:08:03 2021 +0200
+
+    3rd exercise IdaPlayground + loading files in main
+
+commit 2d85c788b191b7ebbbc15ebf30f7141ea2109bdb
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Tue May 11 13:23:36 2021 +0200
+
+    smal bit
+
+commit 32c98c827e1f0b3c5a4278d71ac2a885195a9a77
+Merge: dd7c1c3 bfb591f
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue May 11 12:02:43 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/magsv/fyp2021p04g08
+
+commit dd7c1c384bf71821225f0d1b457d2b1c35baf6d9
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue May 11 12:02:42 2021 +0200
+
+    Update .gitignore
+
+commit 03926aaf26386471373c1b1808154459c846f835
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue May 11 12:02:40 2021 +0200
+
+    Update sabrina.ipynb
+
+commit bfb591f9d9d123b4eef7a014b6be7cd25949cf82
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Sun May 9 17:16:59 2021 +0200
+
+    Work on task 2 (main)
+
+commit 08cba751954fec9503a08ccb3c7ace1d9329b795
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Fri May 7 18:01:47 2021 +0200
+
+    Added two tokenizers for task 1 and added results for task 3
+
+commit f3baee3e07b5d06ed2f7d4afdc8a9ff67554919f
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri May 7 17:52:13 2021 +0200
+
+    Update sabrina.ipynb
+
+commit 0f00e10f51ff722919e4a9068893309e89e57632
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri May 7 17:48:43 2021 +0200
+
+    Update sabrina.ipynb
+
+commit ce031109c4c558f0a17d37099c2ef9562d19548d
+Merge: fef23de 193f080
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri May 7 17:33:29 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/magsv/fyp2021p04g08
+
+commit fef23de41c96eed7cdf8172bb8d7f78ca40d2814
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri May 7 17:33:28 2021 +0200
+
+    Update sabrina.ipynb
+
+commit 193f080300b4382d8eed4a681fc793a36bcfdc8d
+Merge: ed0300b 6839638
+Author: Magnus Sverdrup <magnus_s@live.dk>
+Date:   Fri May 7 17:01:51 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/magsv/fyp2021p04g08
+
+commit ed0300b64231917052450f97df92e3e68fa32a06
+Author: Magnus Sverdrup <magnus_s@live.dk>
+Date:   Fri May 7 17:01:30 2021 +0200
+
+    magnus annotation push
+
+commit 68396387ae9004ac1d6b5004845bcdf1e7732702
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri May 7 16:02:23 2021 +0200
+
+    IAA datasets.
+
+commit dc50a2d07ed3a74f9c349ef4e399c2180f3d4293
+Author: Ida Maria Zachariassen <idza@itu.dk>
+Date:   Fri May 7 15:56:25 2021 +0200
+
+    Add files via upload
+
+commit b0b407a804a43ad835ee490f2d93a7a376df4eb5
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri May 7 15:52:59 2021 +0200
+
+    Update annotations_sabrina.csv
+
+commit beb326bf9d2a3d9bd593f0b0ad9b0d58498e2877
+Author: rubj <rubj@itu.dk>
+Date:   Fri May 7 15:46:28 2021 +0200
+
+    .
+
+commit ef9e8efadb81c2fb92eb05bc7b2b947302b14098
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Fri May 7 15:40:23 2021 +0200
+
+    Create annotations for the irony data
+
+commit 7989d939a706707f02a21de542861e5ff6f7b2b7
+Merge: d6b6975 9ccf3f9
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri May 7 15:37:49 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/magsv/fyp2021p04g08
+
+commit d6b6975e09c4450020d20c976a510d4a9db7d6d8
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri May 7 15:37:44 2021 +0200
+
+    Create lectures_code.ipynb
+
+commit 0b2a0ffbc45e19daa53a5da44f741c01a6b87d13
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri May 7 15:37:41 2021 +0200
+
+    Delete lectures-code.ipynb
+
+commit b2a298daaac5967b8097c5a4d6421dfca8d165ca
+Merge: 5ee737d 9ccf3f9
+Author: Magnus Sverdrup <magnus_s@live.dk>
+Date:   Fri May 7 15:37:30 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/magsv/fyp2021p04g08
+
+commit 5ee737d12b6dc7170fe6822f66664d7215581daa
+Author: Magnus Sverdrup <magnus_s@live.dk>
+Date:   Fri May 7 15:37:09 2021 +0200
+
+    push magnus notebook
+
+commit 9ccf3f9ac44a219229b683b78fef5c1b8cfc1ef9
+Author: rubj <rubj@itu.dk>
+Date:   Fri May 7 15:37:01 2021 +0200
+
+    fix
+
+commit 94954bd640356dcdb4fdd2e42a3f03b48d409a75
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri May 7 15:36:45 2021 +0200
+
+    Create annotations_sabrina.csv
+
+commit 662cd56705ffdaba436dfa5d6e2a5e033f1b8e66
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri May 7 15:36:44 2021 +0200
+
+    Delete annotations-sabrina.csv
+
+commit c99b473a5f9b6915ee2ffec15410cf1c3d4465ed
+Merge: 4b9ff47 15b7ad9
+Author: rubj <rubj@itu.dk>
+Date:   Fri May 7 15:35:28 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/magsv/fyp2021p04g08
+
+commit 4b9ff47685bdfb5914fa1b18a3763664a0c7b12d
+Author: rubj <rubj@itu.dk>
+Date:   Fri May 7 15:35:21 2021 +0200
+
+    ruben annotations exercise 3
+
+commit 15b7ad972dc91e954087a29f19f4a9afb655dcf8
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri May 7 15:34:55 2021 +0200
+
+    Update lectures-code.ipynb
+
+commit fe6b3f280385220cefbc9c508a59d5202d790b0e
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri May 7 15:34:53 2021 +0200
+
+    Update annotations-sabrina.csv
+
+commit 5f41e85417460d01014dc44a6907abbea19eb86c
+Merge: d91cfa4 e91566c
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri May 7 15:33:29 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/magsv/fyp2021p04g08
+
+commit d91cfa40ab123294d23e88d4ae0b7887d0cde803
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri May 7 15:33:19 2021 +0200
+
+    Create annotations-sabrina.csv
+
+commit 136e407a81146e3ca5785263160146158f8b87ac
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri May 7 15:33:12 2021 +0200
+
+    Update .gitignore
+
+commit e91566c538292b87c61987b467944993a87b0a04
+Merge: 15088e5 192eb18
+Author: rubj <rubj@itu.dk>
+Date:   Fri May 7 15:32:59 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/magsv/fyp2021p04g08
+
+commit 15088e5534d96d7c0562fae7f72b398167a9a42c
+Author: rubj <rubj@itu.dk>
+Date:   Fri May 7 15:32:45 2021 +0200
+
+    rubennotebook exercise 2
+
+commit df0129ec39699ba04d378ec855f3803209f7c3e8
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri May 7 15:07:04 2021 +0200
+
+    Update .gitignore
+
+commit 3479571fa95a2955d8c660f1dc53f613ca3f6517
+Author: sf-pear <sabf@itu.dk>
+Date:   Fri May 7 14:02:27 2021 +0200
+
+    Update functions.py
+
+commit 192eb18f8e26c89b5617e45d151218b89ab3411d
+Author: sf-pear <sabf@itu.dk>
+Date:   Wed May 5 00:56:21 2021 +0200
+
+    Update sabrina.ipynb
+
+commit 4fd582c666fd41598b5572ca7092844a897b9a23
+Author: sf-pear <sabf@itu.dk>
+Date:   Wed May 5 00:56:17 2021 +0200
+
+    Update functions.py
+
+commit 1406e27fe031670a5ba40b73cccc7300c67e741c
+Merge: 0f24841 e7d6cf5
+Author: sf-pear <sabf@itu.dk>
+Date:   Wed May 5 00:45:49 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/magsv/fyp2021p04g08
+
+commit 0f24841f6cbb0a7451a80ef0ea33828b679d159f
+Author: sf-pear <sabf@itu.dk>
+Date:   Wed May 5 00:45:48 2021 +0200
+
+    Create functions.py
+
+commit e7d6cf58e5ed854c9b58b8a08d6f0f271cbd2690
+Merge: 66733aa 25f5b5c
+Author: Magnus Sverdrup <magnus_s@live.dk>
+Date:   Tue May 4 22:24:31 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/magsv/fyp2021p04g08
+
+commit 66733aa720690ed15d3ede1b3c180dcd54cc05af
+Author: Magnus Sverdrup <magnus_s@live.dk>
+Date:   Tue May 4 22:24:01 2021 +0200
+
+    Magnus notebook push
+
+commit 25f5b5c5a5b003b94afaaa79c25f472a632ade46
+Merge: 9b72688 3ab55f0
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue May 4 18:30:13 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/magsv/fyp2021p04g08
+
+commit 9b72688c701e63610a60a9a4956547055881f6c3
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue May 4 18:30:11 2021 +0200
+
+    Update sabrina.ipynb
+
+commit 3ab55f0e05ce67d6b5d112be57b4fd17be7b6926
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Tue May 4 17:29:29 2021 +0200
+
+    Kinda did the training on the hate dataset with the ngram mle
+
+commit 4cf3fd54d55678160c0cbffc4ffcd9b684c7a4b8
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue May 4 16:25:32 2021 +0200
+
+    Update sabrina.ipynb
+
+commit 33a500c8a2cefe49d96a9c1cf00b9d0a156f48c9
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue May 4 15:18:56 2021 +0200
+
+    Update sabrina.ipynb
+
+commit 4e9a730f54f8723a5898026c9117fbd4812e1307
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue May 4 15:14:05 2021 +0200
+
+    Update lectures-code.ipynb
+
+commit e6f6859b6c9cb362970d4c2c44548a6fb80babe5
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue May 4 15:09:11 2021 +0200
+
+    Update lectures-code.ipynb
+
+commit be5bf0b5a584fee22bb6b9f5e2e88701c03eb429
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue May 4 15:06:26 2021 +0200
+
+    Create lectures-code.ipynb
+
+commit 9351d24ffb24c950e2c2b91bbcdb350fcef9bbcd
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Fri Apr 30 16:27:06 2021 +0200
+
+    Corrected pd.dataframe
+
+commit dd909502382662188903d15ff2edcdbe83c57fbc
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 27 19:59:44 2021 +0200
+
+    Update sabrina.ipynb
+
+commit 8162483457ce6ea3be4a5d54e33e459711c7ee20
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 27 18:29:21 2021 +0200
+
+    Update .gitignore
+
+commit 0477137699f452bacdd16503f2a1db11708ff5ac
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 27 18:28:30 2021 +0200
+
+    Update sabrina.ipynb
+
+commit 8f7b1591e8f934be678e915accec5a6b9455ceb2
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 27 18:20:44 2021 +0200
+
+    Update sabrina.ipynb
+
+commit a9a95494935ace304199ce38e6da1501b207b5cc
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 27 17:52:36 2021 +0200
+
+    Update sabrina.ipynb
+
+commit dcac93da67e55dc2d913c56961e1163dcb7a0b43
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 27 17:36:47 2021 +0200
+
+    Create sabrina.ipynb
+
+commit 0555bf52e4a12e30585b9812851745c94fe0ea27
+Author: sf-pear <sabf@itu.dk>
+Date:   Tue Apr 27 17:36:45 2021 +0200
+
+    Create .gitignore
+
+commit fb8f9995732a0c281ac1daac8a4765b13f4c2de7
+Merge: 0447000 2b97f7e
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Tue Apr 27 17:30:30 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/magsv/fyp2021p04g08
+
+commit 2b97f7e33fc5f0f4cc486951a1c104850aeae0ad
+Merge: 74e7133 af552d8
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Tue Apr 27 17:30:17 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/magsv/fyp2021p04g08
+
+commit 044700079202bb6adeddcb6b5108a333e8e13dcc
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Tue Apr 27 17:30:15 2021 +0200
+
+    Kinda done with the ideal tokenization
+
+commit 74e71333e29faab76709a991fdc14a1f2621ef3a
+Merge: 8badef5 4134f10
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Tue Apr 27 17:29:48 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/magsv/fyp2021p04g08
+
+commit af552d8b6bf46bb18de4f7f1875d44a18b133aa8
+Author: Magnus Sverdrup <magnus_s@live.dk>
+Date:   Tue Apr 27 17:29:44 2021 +0200
+
+    Magnus exercise 1 push
+
+commit 8badef58e365cf900802dbcb0ff866c05dff9ddf
+Author: Idazacha <70226907+Idazacha@users.noreply.github.com>
+Date:   Tue Apr 27 17:29:39 2021 +0200
+
+    Exercise 1 IZ
+
+commit 4134f10617d7ffc653d7ad8b5d46a16df0ee30d9
+Author: Magnus Sverdrup <magnus_s@live.dk>
+Date:   Tue Apr 27 17:02:40 2021 +0200
+
+    Magnus' tokenizer added
+
+commit ef0b6c1865292036d5ea52283b8f42b77fe6dae9
+Merge: ac5c227 07905bb
+Author: Magnus Sverdrup <magnus_s@live.dk>
+Date:   Tue Apr 27 16:11:00 2021 +0200
+
+    Merge branch 'master' of https://github.itu.dk/magsv/fyp2021p04g08
+
+commit ac5c2271244ce43f7a49033e1d3c5dd19e0b297c
+Author: Magnus Sverdrup <magnus_s@live.dk>
+Date:   Tue Apr 27 16:10:45 2021 +0200
+
+    notebooks pushed
+
+commit 07905bbea650c5c192fe05c13e1c10e2dde97483
+Author: rubj <rubj@itu.dk>
+Date:   Tue Apr 27 16:08:40 2021 +0200
+
+    rubennotebook
+
+commit 993146f53e6545041731fd41f1aa0f32d6e6123e
+Author: Rasmus Bondo <2000bondo@gmail.com>
+Date:   Tue Apr 27 15:26:30 2021 +0200
+
+    Create Rasmus notebook
+
+commit 649098f5ce24015ca440fa9a18dec7f660d5a756
+Author: Magnus Sverdrup <magnus_s@live.dk>
+Date:   Tue Apr 27 15:22:01 2021 +0200
+
+    notebooks folder added
+
+commit c5d453d3effc6d86730ab8e8a022ee78b7570767
+Author: Magnus Sverdrup <magnus_s@live.dk>
+Date:   Tue Apr 27 15:16:56 2021 +0200
+
+    initial files introduced
+
+commit b9d99265ea66564f046211d79191bc3a97569704
+Author: Magnus Sverdrup <magsv@itu.dk>
+Date:   Tue Apr 27 15:09:10 2021 +0200
+
+    Initial commit
